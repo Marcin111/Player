@@ -36,14 +36,6 @@
             <version>2.22.0</version>
             <scope>test</scope>
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/com.github.stefanbirkner/system-rules -->
-        <!--<dependency>-->
-        <!--<groupId>com.github.stefanbirkner</groupId>-->
-        <!--<artifactId>system-rules</artifactId>-->
-        <!--<version>1.19.0</version>-->
-        <!--<scope>test</scope>-->
-        <!--</dependency>-->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>

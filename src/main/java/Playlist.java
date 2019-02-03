@@ -43,7 +43,6 @@ public class Playlist implements Playable{
                 count--;
             }
         }
-        //elements.get(e->e.get(e.size()).play());
     }
 
     public void playSequence() {

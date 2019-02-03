@@ -5,7 +5,7 @@ public class Player {
 //        INSTRUKCJA
 
 //        Aplikacja uruchomiana jest z klasy Player. Po zainicjowaniu aplikacji zostanie odtworzona PlayLista4
-//        z kolejnością sekwencyjną zawierająca filmy i utwory. PlayLista4 zawiera również podlistę, którą jest
+//        z kolejnością sekwencyjną zawierająca filmy i utwory muzyczne. PlayLista4 zawiera również podlistę, którą jest
 //        PlayLista2 z kolejnością losową.
 //
 //        W klasie Player znajduje się kilka różnych PlayList gotowych do odtworzenia.
